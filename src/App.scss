@@ -1,0 +1,12 @@
+$primary:  #FF7F62;
+
+.Banner {
+    background-color: $primary;
+    display: flex;
+    justify-content: center;
+    padding: 25px 0;
+}
+
+p {
+    font-size: 24px;
+}
